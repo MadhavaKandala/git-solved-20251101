@@ -1,0 +1,6 @@
+- f474f82: docs: update readme (BhargavaKandala, 4 minutes ago)
+- 83bb66f: feat: finish new feature (BhargavaKandala, 9 minutes ago)
+- 273d41d: docs: add FAQ (BhargavaKandala, 9 minutes ago)
+- 0312c6f: updating main (Hanu Gupta, 9 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 9 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 9 days ago)
